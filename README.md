@@ -1,5 +1,5 @@
 # Multi Agent Reinforcement Learning (MARL)
-This project implements the Q-learning algorithm in a *multi-agent environment*. Training in a multi-agent environment brings forward a challenge: the environment is not stationary, therefore we adopt an **independent learning** approach. Two competing agents (red and green) move in a grid world: green has to move toward a fixed goal and red has to catch green.  
+This project implements the Q-learning algorithm in a *multi-agent environment*. Training in a multi-agent environment brings forward a challenge: the environment is not stationary, therefore we adopt an **independent learning** approach. Two competing agents (red and green) move in a grid world: green has to move towards a fixed goal and red has to catch green.  
 
 
 **Q-learning algorithm**
