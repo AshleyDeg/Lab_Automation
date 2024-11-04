@@ -10,4 +10,14 @@ The Q-learning algorithm is adapted for a multi-agent environment using an indep
  
 *Dependencies*: Python version used for this project is Python 3.12.4. The libraries imported and used are: numpy, matplotlib and pygame for visualization and plotting purposes. 
 
+# Implementation 
+In agents.py two classes are defined. One for the agent and one for its adversary. In grid.py the class Grid is defined to visualize games.  We follow a grid world implementation. The good agent (green) has to move towards a fixed goal, and the adversary's (red agent) goal is catch the other anger. The environment is a grid with nxn possible states with fixed obstacles and each agent can move according to one of four actions (left, right, up, down). 
+
+In independent_learning.py command line arguments can be passed to set the following parameters:
+- grid size nxn (default n = 10)
+- number of games displayed per iteration (default g = 10)
+- number of obstacles in grid (default = n)
+- delay for game visualization (default d = 150ms)
+- wheter of not you want to print Q-tables before and after each training, default FALSE
+
 # Results 
