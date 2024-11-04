@@ -18,7 +18,7 @@ In independent_learning.py command line arguments can be passed to set the follo
 - number of games displayed per iteration (default g = 10)
 - number of obstacles in grid (default = n)
 - delay for game visualization (default d = 150ms)
-- wheter of not you want to print Q-tables before and after each training, default FALSE
+- whether of not you want to print Q-tables before and after each training, default FALSE
 
 To run the code: 
 ```
@@ -26,3 +26,4 @@ python independent_learning.py
 ```
 
 # Results 
+Please find results in the corresponding folder. 
