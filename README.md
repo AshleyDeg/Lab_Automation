@@ -8,6 +8,6 @@ This project implements the Q-learning algorithm in a *multi-agent environment*.
 
 The Q-learning algorithm is adapted for a multi-agent environment using an independent learning approach: one agent improves its policy by applying a RL algorithm, while the other follows a fixed policy. The learning agent is changes periodically.
  
-Dependencies: Python version used for this project is Python 3.12.4. The libraries imported and used are: numpy, matplotlib and pygame for visualization and plotting purposes. 
+*Dependencies*: Python version used for this project is Python 3.12.4. The libraries imported and used are: numpy, matplotlib and pygame for visualization and plotting purposes. 
 
 # Results 
