@@ -20,4 +20,9 @@ In independent_learning.py command line arguments can be passed to set the follo
 - delay for game visualization (default d = 150ms)
 - wheter of not you want to print Q-tables before and after each training, default FALSE
 
+To run the code: 
+```
+python independent_learning.py
+```
+
 # Results 
