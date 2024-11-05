@@ -33,5 +33,5 @@ Results include:
 - reward plots for each iteration of training (including a moving average plot for better interpretation)
 - a plot of the number of wins for each agent over 500 games
 
-From the result we can see how the agents learn to move across the grid towards their goals. Particularly, the red agent learns where the green's goal is and tried to *beat* green by getting there first. So, since in each episodes the starting position is random, the agents that wins is the closest one to the fixed goal and as expected, each agent wins about 50% of the time. 
+From the results we can see how the agents learn to move across the grid towards their goals. Particularly, the red agent learns where the green's goal is and tried to *beat* green by getting there first. So, since in each episodes the starting position is random, the agents that wins is the closest one to the fixed goal and as expected, each agent wins about 50% of the time. 
 
